@@ -22,7 +22,7 @@
 
 <p>
   <img src="assets/label-tools.svg" height="46" alt="Tools & Game Dev"><br>
-  <img src="https://skillicons.dev/icons?i=robloxstudio,git,github,vitest,linux,apple" alt="Roblox Studio, Git, GitHub, Vitest, Linux, macOS">
+  <img src="assets/skills-tools.svg" alt="Roblox Studio, Git, GitHub, Vitest, Linux, macOS">
 </p>
 
 </div>
